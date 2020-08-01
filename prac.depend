@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588671104 source:c:\users\rohit hariharan\desktop\proj c .c++\prac\untitled1.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
